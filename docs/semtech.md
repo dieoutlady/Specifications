@@ -356,7 +356,7 @@ Examples (white-spaces, indentation and newlines added for readability):
 ``` json
 {"txpk":{
 	"imme":true,
-	"freq":864.123456,
+	"freq":472.1,
 	"rfch":0,
 	"powe":14,
 	"modu":"LORA",
@@ -371,7 +371,7 @@ Examples (white-spaces, indentation and newlines added for readability):
 ``` json
 {"txpk":{
 	"imme":true,
-	"freq":861.3,
+	"freq":472.1,
 	"rfch":0,
 	"powe":12,
 	"modu":"FSK",
